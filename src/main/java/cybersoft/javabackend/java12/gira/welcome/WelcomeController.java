@@ -9,6 +9,6 @@ public class WelcomeController {
 	@ResponseBody
 	public String welcome() {
 		return "welcome";
-		//demo
+		
 	}
 }
