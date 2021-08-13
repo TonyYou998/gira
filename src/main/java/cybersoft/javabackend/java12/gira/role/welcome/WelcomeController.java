@@ -1,4 +1,4 @@
-package cybersoft.javabackend.java12.gira.welcome;
+package cybersoft.javabackend.java12.gira.role.welcome;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

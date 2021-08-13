@@ -1,0 +1,8 @@
+#cau hinj yml
+spring:
+  datasource:    url: jdbc:postgresql://localhost:5432/postgres    username: postgres
+    password: 1234
+  jpa:
+    show-sql: true
+    generate-ddl: true
+    hibernate:      ddl-auto: create-drop
